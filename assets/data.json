@@ -1,0 +1,285 @@
+[
+    {
+      "id" : 1,
+      "name" : "RSUD Kota Bogor",
+      "address" : "Jl. DR. Sumeru No.120, RT.03/RW.20, Menteng, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16112",
+      
+      "city":"Bogor",
+      "description" : "Rumah sakit yang sebelumnya bernama RS Karya Bakti sudah sangat akrab dan dibutuhkan oleh sebagian warga Kota Bogor dan sekitarnya. Salah satu tantangan yang saat itu dihadapi adalah “Pegawai di semua lini harus mengubah paradigma, dari pegawai swasta murni menjadi pegawai RSUD yang berkewajiban untuk mengedepankan pelayanan sosial”. Sikap bertahan dan pola pikir pegawai yang tidak mau berubah, akan sangat menyulitkan proses pemberian pelayanan kepada pelanggan.",
+      "image": "https://dmm0a91a1r04e.cloudfront.net/48UIFJSzyeXm_1poDfzR4deH2fI=/1024x576/https%3A%2F%2Fkompas.id%2Fwp-content%2Fuploads%2F2020%2F03%2F95b48f42-760c-4ba4-9be7-ad3120d9f5b4_jpeg.jpg",
+      "phoneNumber" : "02518312292",
+      "geo":{
+        "lat":-6.580535483524933,
+        "lng":106.77790674328402
+      },
+      "email" : "rsudkotabogor@gmail.com"
+    },
+    {
+      "id" : 2,
+      "name" : "RS Bhayangkara Bogor",
+      "address" : "Jl. Kapten Muslihat No.18, RT.04/RW.01, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16124",
+      "city":"Bogor",
+      "description" : "Dikelola oleh Polri, Rumah Sakit Umum Bhayangkara Bogor adalah rumah sakit tipe D yang didirikan untuk menyediakan pelayanan kesehatan bagi anggota kepolisian dan keluarga serta masyarakat umum yang berada di Kecamatan Bogor Tengah, Kota Bogor. RSU Bhayangkara Bogor menyediakan layanan-layanan spesialis bagi para pasiennya, seperti Mata, Bedah, Kebidanan & Kandungan, dan lain-lain yang ditunjang oleh tenaga kesehatan profesional serta fasilitas medis yang memadai.",
+
+      "image":"https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/bhayangkara-bogor-HCFH00000388.jpg",
+      "phoneNumber" : "02518348987",
+      "geo":{
+        "lat":-6.596592969177828,
+        "lng":106.79136838305706
+      },
+      "email" : "rumkitwilbgr@yahoo.co.id "
+    },
+    {
+      "id" : 3,
+      "name" : "Rumah Sakit Azra",
+      "address" : "Jl. Raya Pajajaran No.219, RT.02/RW.11, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153",
+      "city":"Bogor",
+      "description" : "awalnya merupakan klinik bersalin yang berdiri pada tahun 1982. Klinik tersebut diberi nama Klinik Bersalin Azra yang di dirikan oleh Dr. Hidayat Danukusumah, SpOG. Klinik Bersalin Azra ini terletak di Jalan Gunung Gede No. 3 Bogor yang mempunyai tujuan memberikan pelayanan kebidanan dan kandungan.    Banyaknya permintaan dari pasien dan keluarga untuk mendapatkan pelayanan kesehatan yang dibutuhkan selain dari pelayanan kebidanan dan kandungan, maka melalui proses pertimbangan yang matang didirikanlah Rumah Sakit Azra pada tanggal 6 April 1994. Status badan usaha Rumah Sakit Azra berbentuk Yayasan. Lokasi Rumah Sakit Azra ini berada di pusat kota Bogor, sangat strategis dan mudah dijangkau oleh berbagai kalangan, tepatnya di Jalan Raya Pajajaran 219 Bogor.  Pada tahun 2002 kepemilikannya berubah menjadi perseroan terbatas yang bernama PT. Artasabena Putra (PT ASP) maka dengan perubahan tersebut secara operasional Rumah Sakit Azra berubah menjadi rumah sakit yang bersifat umum dengan segala aktifitas dan kelengkapannya. Kepemimpinan Rumah Sakit Azra dijabat oleh Dr. Hidayat Danukusumah, SpOG, Dr. Rizasyah Daud, Msc, SpPD-Kr sebagai Direktur Medik dan Ny. Aida Hidayat Danukusumah sebagai Direktur Administrasi dan Keuangan.",
+      "image":"https://www.garnesia.com/images/vendor/5430_9b74e5f0eb12800816f6da63b7ccdc0a.jpg",
+      "phoneNumber" : "02518318456",
+      "geo":{
+        "lat":-6.5795182534151975,
+        "lng":106.8078702097579
+      },
+      "email" : "cs@rsazra.co.id"
+    },
+    {
+      "id":4,
+      "name" : "RS PMI Bogor",
+      "address" : "RS PMI Bogor Jl. Raya Pajajaran No.80, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16143",
+      "city":"Bogor",
+      "description" : "RSU PMI Bogor adalah sebuah rumah sakit swasta yang berada di Kota Bogor, Jawa Barat. Didirikan pada tanggal 1 April 1931 atas prakarsa Kelompok Sosial Belanda sebelum beralih ke Palang Merah Indonesia. Berawal dari prakarsa kelompok sosial orang-orang Belanda maka didirikanlah sebuah rumah sakit di Bogor pada tahun 1931. Rumah sakit ini merupakan rumah sakit tertua yang ada di Indonesia. Selang 7 tahun kemudian pengelolaan rumah sakit tersebut diserahkan kepada organisasi NERKAI (Nederlandsch Rode Kruis Afdeling Van Indonesie). NERKAI pun mengambil alih kembali pengelolaan rumah sakit setelahnya. Barulah pada tahun 1948, pengelolaan rumah sakit dihibahkan kepada pengurus Palang Merah Indonesia. Pada tahun 1964, rumah sakit ini direstorasi dan dirombak ulang tata bangunannya. Selang tahun 1970 RSU PMI Bogor mendapatkan status rumah sakit tipe B menurut standar hasil Kemenkes RI. Sejak saat itu RSU PMI Bogor lebih berkiprah di dunia kesehatan.[2] ",
+       "image":"https://cdn.antaranews.com/cache/730x487/2020/06/26/RS-PMI-COVID.jpg",
+      "phoneNumber" : "02518393030",
+      "geo":{
+        "lat":-6.598543699366049,
+        "lng":106.80510792912366
+      },
+      "email" : "sekretariat@rspmibogor.or.id"
+    },
+    {
+      "id":5,
+      "name" : "RS Hermina Bogor",
+      "address" : "Jl. Ring Road I Kav Perumahan, Jl. Ring Road Taman Yasmin No.23, 25, 27, RT.08/RW.08, Curugmekar, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",
+      "city":"Bogor",
+      "description" : "Rumah Sakit Umum Hermina Bogor adalah Rumah Sakit cabang ke-6 dari 45 anggota RS Hermina Group, yang berlokasi di Jl. Ringroad 1 Kav 23, 25, 27 Perumahan Taman Yasmin, Bogor dengan struktur bangunan 6 lantai dan memiliki 200 kapasitas tempat tidur. RS Hermina Bogor memiliki moto Mengutamakan Mutu Pelayanan dan Keselamatan Pasien. Pelayanan Rumah sakit yang bermutu adalah pelayanan yang Aman, Rasional efektif, Efisien dan memberikan kenyamanan bagi pasien, sehingga RS Hermina Bogor mampu menjadi salah satu Rumah Sakit Swasta di Kota Bogor yang terkemuka di wilayah cakupannya dengan berbagai fasilitas pelayanan dan produk unggulan yang dimiliki.",
+       "image":"https://dk4fkkwa4o9l0.cloudfront.net/production/uploads/hospital/logo/6/Bogor.jpg",
+      "phoneNumber" : "02518382525",
+      "geo":{
+        "lat":-6.557349832848344,
+        "lng":106.77389075578752
+      },
+      "email" : "marketing.bogor@herminahospitals.com"
+    },
+    {
+      "id":6,
+      "name" : "Rumah Sakit Salak",
+      "address" : "Jl. Jend. Sudirman No.8, RT.03/RW.07, Sempur, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
+      "city":"Bogor",
+      "description" : "umah Sakit Salak Bogor mulai berdiri tahun 1925, saat itu dikelola oleh pemerintah Belanda. Pada bulan Maret 1950, Rumah Sakit ini diserahkan kepada Pemerintah Indonesia. Penyerahan ini dilakukan oleh Mayor Jendral Dr. Simon direktur MGD KNIL kepada wakil Direktur Kesehatan Angkatan Darat dan sebagai Karumkit dipercayakan kepada Mayor Dr. Sarjiman. Penyerahan Rumah Sakit Militer Bogor ini baru sebagian (Ruangan Laki – laki ) karena ruangan wanita dan kamar bersalin masih dipakaioleh Kesehatan Belanda untuk beberapa bulan. Kondisi ruang Rawat Inap dan Rawat Jalan saat itu sangat sederhana, bangunan berdinding papan yang sudah tua dengan kapasitas rawat inap 40 tempat tidur. Selama perkembangannya sejak tahun 1990 Rumah Sakit Salak telah mengalami penambahan bangunan dan renovasi, sehingga saat ini kapasitas rawat inap sudah menjadi 155 tempat tidur. Tahun 1963, Rumah Sakit TNIAD Salak Bogor yang berkedudukan dibawah Komando Angkatan Darat dengan nama Djawatan Kesehatan Tentara (DKT) dan tahun 1984, Rumah sakit ini menggunakan kembali namanya yang lama, yaitu Rumah Sakit TNIAD Salak Bogor. Pada awal pendiriannya, pelayanan kesehatan di RS TNIAD Salak Bogor hanya ditunjukan kepada anggota Militer dan Keluarganya, namun pada tahun 1960 atas petunjuk Dari Kepala Staf Angkatan Darat (KASAD) Rumah Sakit TNIAD Salak Bogor dapat memberikan pelayanan kesehatan kepada masyarakat umum. Saat ini Rumah Sakit Salak Bogor yang berdiri diatas lahan seluar 9213 M² dengan luas bangunan 6074 M² merupakan Rumah Sakit Tingkat III dijajaran TNI-AD, yang berada dibawah Detasemen Kesehatan Wilayah (Denkesyah) 03.04.01 Bogor yang mempunyai tugas pokok untuk memberikan pelayanan Kesehatan kepada Prajurit, PNS TNI dan Keluarganya serta masyarakat umum.",
+       "image":"https://cdn-2.tstatic.net/bogor/foto/bank/images/rs-salak-ke-kemenkes.jpg",
+      "phoneNumber" : "081281900808",
+      "geo":{
+        "lat":-6.5909483708722725,
+        "lng":106.7975551518175
+      },
+      "email" : "rsSalak@gmail.com"
+    },
+    {
+      "id":7,
+      "name" : "Rumah Sakit Karya Bhakti Pratiwi",
+      "address" : "Jl. Jend. Sudirman No.8, RT.03/RW.07, Sempur, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121",
+      "city":"Bogor",
+      "description" : "Berdirinya RS Karya Bhakti Pratiwi diprakarsai oleh dr. Mismasdi Mihadi, Sp.OG dan dr. Subagyo Partodiharjo. Sebagai langkah awal Untuk terwujudnya rumah sakit tersebut, dr. Mismasdi Mihadi, Sp.OG dan dr. Subagyo Partodiharjo membentuk sebuah perusahaan bernama PT. Karya Bhakti Pratiwi yang beralamat di Jakarta berdasarkan Akta Notaris Nomor 06 tanggal 30 April 2010 yang dibuat dihadapan Savitri Irma Mulia, SH., Notaris di Bekasi yang telah mendapatkan persetujuan dari Menteri Hukum dan Hak Asasi Manusia Republik Indonesia dengan Surat Keputusan Nomor AHU-24840.AH.01.01 Tahun 2010 tanggal 17 Mei 2010. Dimulai dengan membeli sebidang tanah seluas 4.715 M2 (Sertifikat Guna Bangunan Desa Dramaga Hak Guna Bangunan No.339) di Jl. Raya Dramaga KM 7 Desa Dramaga Kecamatan Dramaga Kabupaten Bogor, pada tanggal 03 Desember 2010, dr. Mismasdi Mihadi, Sp.OG mengajukan permohonan izin peruntukan penggunaan tanah kepada Bupati Bogor. Permohonan tersebut mendapat respon yang sangat baik dari Bupati Bogor sehingga terbitlah Keputusan Bupati Nomor : 591.2/002/01092/BPT/2010 tertanggal 31 Desember 2010. Dengan didasari Keputusan Bupati tersebut, segera dilakukan pembuatan studi kelayakan, dokumen UKL/UPL, dan Detail Engineering Design (DED). Semua proses tersebut berhasil dilewati dengan diterbitkannya Surat Keputusan Bupati Bogor Nomor: 445/154/Kpts/Per-UU/1012 tanggal2 Maret 2012 tentang Pemberian Izin Mendirikan Rumah Sakit Karya Bhakti Pratiwi di Desa Dramaga Kecamatan Dramaga, Kabupaten Bogor. Bermodal awal dari dr Mismasdi Mihadi, Sp.OG dan dr Subagyo Partodiharjo, pada tanggal 21 Maret 2012 mulai dilakukan peletakan batu pertama pembangunan RS Karya Bhakti Pratiwi. Kemudian Yayasan Karya Bhakti membuat kesepakatan untuk menyertakan modalnya dalam pembangunan RS Karya Bhakti Pratiwi melalui kepemilikan saham di PT. Karya Bhakti Pratiwi. Dengan terbitnya izin operasional tersebut, secara bertahap RS. Karya Bhakti Pratiwi membuka pelayanan yaitu Pelayanan Rawat Jalan, Penunjang, IGD, selanjutnya Pelayanan Rawat Inap dengan kapasitas 72 tempat tidur. Pada bulan April 2014 dibuka Pelayanan Kamar Operasi dan Kamar Bersalin, ICU dan HCU.Dalam perkembangannya selama satu tahun RS. Karya Bhakti Pratiwi berupaya meningkatkan fasilitas dan pelayanan. Pada tanggal 12 Januari 2015 RS. Karya Bhakti Pratiwi mendapatkan Sertifikat Penetapan Kelas RS dari Pemerintah Kabupaten Bogor dimana RS. Karya Bhakti Pratiwi ditetapkan sebagai RS Kelas C serta Izin Operasional RS selama 5 (lima) tahun berdasarkan Keputusan Bupati Bogor Nomor 445/50/Kpts/Per-UU/2015. ",
+       "image":"https://ion.co.id/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-20-at-15.01.39.jpeg",
+      "phoneNumber" : "02518626868",
+      "geo":{
+        "lat":-6.590974970455405,
+        "lng":106.7974496317661
+      },
+      "email" : "marketing@karyabhaktipratiwi.co.id"
+    },
+    {
+      "id" : 8,
+      "name" : "Rumah Sakit Bogor Senior",
+      "address" : "Jl. Raya Tajur No.168, Muarasari, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16137",
+      "city":"Bogor",
+      "description" : "Menjadi rumah sakit yang terdepan dan terpercaya dalam memberikan pelayanan kesehatan bagi orang usia lanjut serta dapat menjadi tolak ukur bagi institusi kesehatan tingkat Nasional maupun Internasional. ",
+       "image":"https://www.bogorsenior.com/assets/images/front.jpg",
+      "phoneNumber" : "081770998889",
+      "geo":{
+        "lat":-6.640518783567056,
+        "lng":106.83305608304194
+      },
+      "email" : "bsh@bogorsenior.com"
+    },
+    {
+      "id":9,
+      "name" : "Mayapada Hospital Bogor (BMC)",
+      "address" : "Jl. Pajajaran Indah V No.97, RT.01/RW.11, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143",
+      "city":"Bogor",
+      "description" : "Mayapada Hospital merupakan salah satu rumah sakit swasta terbaik yang didirikan oleh Mayapada Healthcare Group pada 1 Juni 2008, setelah mengambil alih kepemilikan Honoris Hospital yang berlokasi di Jl. Honoris Raya Kav. 6, kawasan hunian eksklusif Modern Land Tangerang. Sebagai salah satu bentuk komitmen dalam menyediakan pelayanan kesehatan berstandar internasional, Mayapada Hospital bekerjasama dengan National Healthcare Group (NHG) Singapore. Ahli dalam bidang manajemen rumah sakit, NHG Group bertanggung jawab dalam manajemen rumah sakit rumah sakit peringkat teratas seperti National University Hospital (NUH), Tan Tock Seng Hospital, dan juga John Hopkins Singapore. Kerjasama ini memungkinkan Mayapada Hospital untuk menerapkan administrasi dan pelatihan kesehatan berstandar internasional guna meningkatkan pelayanan kesehatan beserta keseluruhan strukturnya. Dengan para dokter dan profesional kesehatan terbaik yang berkompeten dalam bidangnya masing-masing, Mayapada Hospital telah mempunyai nama dan reputasi yang baik dan telah terpercaya dalam memberikan pelayanan kesehatan yang berkualitas tinggi. Mayapada Hospital bertujuan untuk memberikan pelayanan kesehatan berkualitas internasional bagi setiap masyarakat Indonesia maupun ekspatriat tanpa harus melakukan perjalanan ke luar negeri.",
+       "image":"https://1.bp.blogspot.com/-pnfNnyCPH70/X_Vf5uZpBzI/AAAAAAAAPaM/X5HUkhwEu34jOPCZKVoTtaOS4wiuhxYBwCLcBGAsYHQ/s1043/RS%2BBMC%2BMayapada%2BHospital%2BBogor%2Bjadwal%2Bpraktek%2Bdokter.jpg",
+      "phoneNumber" : "150770",
+      "geo":{
+        "lat":-6.607799246890833,
+        "lng":106.8114638343549
+      },
+      "email" : "mayapadahospitalbogor@gmail.com"
+    },
+    {
+      "id":10,
+      "name" : "Rumah Sakit Islam ",
+      "address" : "Jl. Perdana Raya No.22, RT.01/RW.10, Kedungbadak, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16710",
+      "city":"Bogor",
+      "description" : "Hingga saat ini Rumah Sakit Islam Bogor hingga pada saat ini telah memiliki produk dan layanan berupa Instalasi Gawat Darurat (IGD) 24 Jam, Poli Umum, Poli Gigi, dan 14 Poli Spesialis. Fasilitas yang telah tersedia dalam bentuk ruang perawatan kelas 3, 2, 1, VIP, VVIP serta Suite Room yang keseluruhan berjumlah 89 tempat tidur. Fasilitas ini dilengkapi pula dengan kamar operasi, kamar bersalin, High Care Unit (HCU), perinatal, laboratorium, radiologi, apotik, USG, EKG, dan fisioterapi. Didukung oleh dokter dan perawat serta tenaga teknis non medis yang sudah berpengalaman dan terampil, sehingga menambah kenyamanan dalam pelayanan bagi pasien. Insya Allah akan terus berlanjut untuk pengembangan infrastruktur hingga 2016. Sesuai Visi dan Misinya RS Islam Bogor telah membuktikan dengan pelayanan islami dan profesional yang menjunjung tinggi nilai etik profesi kedokteran, Saat ini RS Islam Bogor telah mendapatkan Sertifikat Akreditasi Rumah Sakit Nomor : KARS-SERT/666/VI/2012 berdasarkan hasil dari penilaian Komisi Akreditasi Rumah Sakit. Sertifikat ini diperoleh sebagai pengakuan bahwa RS Islam Bogor memenuhi standar rumah sakit yang meliputi : Administrasi dan Manajemen, Pelayanan Medis, Pelayanan Gawat Darurat, serta Pelayanan Keprawatan dan Rekam Medis.",
+       "image":"https://static.republika.co.id/uploads/images/inpicture_slide/suasana-rumah-sakit-islam-bogor-rsib-kota-bogor-kamis-_200220142555-936.jpg",
+      "phoneNumber" : "02518316822",
+      "geo":{
+        "lat":-6.55870966430244,
+        "lng":106.79265169387688
+      },
+      "email" : "rsislam@bogor.id"
+    },
+    {
+      "id":11,
+      "name" : "RS NURAIDA BOGOR",
+      "address" : "Jalan Haji Jl. Achmad Sobana No.105, RT.04/RW.06, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16152",
+      "city":"Bogor",
+      "description" : " Bermula dari RB PERMATA BUNDA NURAIDA yang telah berdiri sejak tahun 2004, cikal bakal tersebut kini telah tumbuh dan berkembang menjadi RSIA NURAIDA. RSIA Nuraida hadir sebagai suatu pusat layanan kesehatan terpadu dengan unggulan pelayanan Fertilitas yang hadir untuk melayani masyarakat di Kota Bogor dan sekitarnya.",
+       "image":"https://1.bp.blogspot.com/-T7-gHm3Nl8s/YMqbhFuFa1I/AAAAAAAABMo/MBk5YWlN8fkQHLRh2ZM2jjvEq4rJKqwQQCLcBGAsYHQ/s436/rsia-nuraida.PNG",
+      "phoneNumber" : "02518368866",
+      "geo":{
+        "lat":-6.581182723199641,
+        "lng":106.81488092880252
+      },
+      "email" : "sekretariat@rsianuraida.com"
+    },
+    {
+      "id":12,
+      "name" : "RUMAH SAKIT VANIA",
+      "address" : "Jl. Siliwangi No.11, RT.01/RW.03, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142",
+      "city":"Bogor",
+      "description" : "Dalam menjalankan kegiatan operasionalnya RS Vania didukung oleh tim dokter dan tenaga medis yang handal dan professional di bidangnya seperti perawat terlatih, ahli gizi, analis juga radiographer. Selain itu kami juga menyiapkan fasilitas penunjang medis yang lengkap untuk memenuhi kebutuhan layanan kesehatan. Untuk unit layanan gawat darurat, IGD RS Vania didukung oleh tim dokter dan perawat yang siaga 24 jam untuk membantu menangani dan mengatasi kegawatdaruratan pada pasien. Pada Poli rawat jalan RS Vania, kami melengkapinya dengan dokter gigi dan dokter spesialis antara lain : Spesialis anak, kandungan dan kebidanan, penyakit dalam, saraf, bedah umum, bedah saraf, bedah tulang (orthopedi), mata,  paru, urologi, THT, radiologi, anastes, patologiklinis,psikolog dan klinik kecantikan. Untuk ruang perawatan tersedia ruang perawatan umum untuk anak dan dewasa serta ruang perawatan intensif ICU/ HCU dan  NICU/ PICU. Selanjutnya pada fasilitas Medical Check Up telah disiapkan khusus executive room dengan fasilitas yang lengkap seperti tread mill, Echocardiography, audiometri dan spirometri. Pelayanan berkualitas prima menjadi moto RS Vania dimana kami berkomitmen untuk memberikan pelayanan prima secara utuh cepat, tepat, ramah dan nyaman, konsisten, serta fokus pada pasien dengan penuh cintakasih yang senantiasa kami pegang teguh hingga menjadi selaras dengan visi kami yaitu terwujudnya RS.Vania sebagai penyedia solusi kesehatan yang terpercaya di Bogor dalam rangka era globalisasi.",
+       "image":"https://www.garnesia.com/images/vendor/5762_d7201336675354e8e0f3029bfb0164fa.jpg",
+      "phoneNumber" : "02518380601",
+      "geo":{
+        "lat":-6.612947620771383,
+        "lng":106.80778114226462
+      },
+      "email" : "rsvania@gmail.com"
+    },
+    {
+      "id":13,
+      "name" : "Rumah Sakit Karya Mandiri Utama",
+      "address" : "RT.01/RW.08, Kp. Parung Jambu, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129",
+      "city":"Bogor",
+      "description" : "Layanan unggulan (atau dalam istilah internasional dikenal sebagai center of excellent) merupakan suatu layanan yang penuh dengan inovasi, didukung oleh teknologi terbaik dibidangnya, biasanya komprehensif pada layanan rumah sakit yang fokus pada penyakit yang dialami oleh pasien, serta memiliki pelayanan lainnya.",
+       "image":"https://mediabumn.com/wp-content/uploads/2020/12/image_4des_konstruksi_hutama.jpg",
+      "phoneNumber" : "02518461321",
+      "geo":{
+        "lat":-6.597030517268171,
+        "lng":106.80633633065347
+      },
+      "email" : "rskaryamutama@gmail.com"
+    },
+    {
+      "id":14,
+      "name" : "Rumah Sakit FMC",
+      "address" : "Jl. Raya Bogor No.KM. 51, Cimandala, Kec. Sukaraja, Kota Bogor, Jawa Barat 16710",
+      "city":"Bogor",
+      "description" : "Rumah Sakit FMC merupakan salah satu pusat pelayanan kesehatan milik swasta, dibangun di atas tanah seluas 6700 meter2, yang terletak di Jalan Raya Jakarta Bogor KM 51 Kec. Sukaraja Kabupaten Bogor. Letak yang strategis di jalan utama yang menghubungkan Kota Bogor dan Kota Jakarta serta sebagai pintu gerbang utama Outer Ring Road Kota Bogor yang menghubungkan Sentul dengan Kota Bogor sehingga mempermudah transportasi pasien baik kendaraan pribadi ataupun kendaraan umum dari segala jurusan (24 jam). Di tahun 2016, saat Rumah Sakit FMC sedang dalam tindakan pengembangan gedung, peralatan sarana dan fasilitas. Terdiri dari 2 lantai terdiri dari IGD, 22 Poliklinik Spesialis, 3 Ruang Bedah Sentral, Ruang HCU, Ruang Perina, Ruang Kebidanan/Bersalin dan Ruang Perawatan yang menampung 73 tempat tidur. Rumah Sakit FMC saat ini sedang dalam tindakan pengembangan gedung, peralatan sarana dan fasilitas. Dengan bangunan 4 lantai, Rumah sakit FMC terdiri dari IGD, 22 Poliklinik Spesialis, 3 Ruang Bedah Sentral, Ruang Intensive (ICU, NICU, HCU), Ruang Perina High Care, Ruang Kebidanan/ Bersalin dan Ruang Perawatan yang menampung 103 tempat tidur. Didukung peralatan medis yang modern dan dokter-dokter yang handal, serta tenaga paramedis dan non paramedis yang berpengalaman dan berkomitmen tinggi untuk memberikan pelayanan yang terbaik karena kesembuhan pasien adalah tujuan kami, kepuasan dan kenyaman pasien adalah prioritas kami. ",
+       "image":"https://d1ojs48v3n42tp.cloudfront.net/provider_location_banner/440901_31-1-2020_10-22-48.jpg",
+      "phoneNumber" : "02518665000",
+      "geo":{
+        "lat":-6.534001908098787,
+        "lng":106.8280424766827
+      },
+      "email" : "rsfmed@gmail.com"
+    },
+    {
+      "id":15,
+      "name" : "RS UMMI",
+      "address" : "l. Empang II No.2, Empang, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16132",
+      "city":"Bogor",
+      "description" : "Rumah Sakit UMMI (RS UMMI) adalah rumah sakit umum tipe C yang memberikan pelayanan kesehatan dengan layanan unggulan berupa pelayanan kesehatan bagi Ibu dan Anak. Berada di bawah naungan PT Dutagraha Afiah, RS UMMI diresmikan pada tanggal 18 Mei 2013 di Bogor. Terletak di kawasan pusat kota Bogor di dekat kaki Gunung Salak sehingga menjadikan rumah sakit ini sejuk, nyaman dan tenang. Berdiri di atas lahan tanah seluas lebih dari 5000 m2 dengan fasilitas yang sangat lengkap. Dilengkapi dengan fasilitas IGD dengan dokter jaga yang bersertifikasi, ICU, PICU, NICU, Ruang Perinatologi serta 3 Kamar Operasi, menjadikan RS UMMI semakin dibutuhkan oleh masyarakat di kota Bogor dan sekitarnya. Selain itu tersedia pula berbagai ruang perawatan dari kelas III, kelas II, kelas I sampai kelas President Suite sehingga menambah kemudahan dalam pilihan ruangan bagi masyarakat dengan nuansa “feels like home”. Pelayanan prima di rumah sakit didukung oleh dokter-dokter yang berpengalaman dari berbagai cabang disiplin ilmu. Keramahan dan kelembutan tenaga kesehatan serta suasana yang Islami di dalam rumah sakit menjadi nilai tambah sehingga menambah kepuasan, kenyamanan dan ketenangan pasien yang berobat di RS UMMI.",
+       "image":"https://asset.kompas.com/crops/LlAXBNNpYSU5r3vRD8_X5KlDz50=/61x0:3061x2000/750x500/data/photo/2020/12/04/5fc9e9952c83c.jpg",
+      "phoneNumber" : "02518341600",
+      "geo":{
+        "lat":-6.608483392372082,
+        "lng":106.79467651160876
+      },
+      "email" : "rsummi@gmail.com"
+    },
+    {
+      "id":16,
+      "name" : "RS MELANIA",
+      "address" : "Jl. Pahlawan No.91, RT.01/RW.16, Bondongan, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16131",
+      "city":"Bogor",
+      "description" : "Rumah Sakit Melania Bogor adalah salah satu sarana pelayanan yang bergerak di bidang kesehatan di kota Bogor. Pada awalnya RS Melania adalah sarana pelayanan kesehatan yang bernaung dibawah Yayasan Melania. Pada tanggal 2 Juli 2007 RB Melania berpindah kepemilikan dari Yayasan Melania Kepada PT. SPAA Medika. Maka sejak tanggal 2 Juli 2007 dibawah kepemimpinan dr. Petrus Sediawan Admadjaja, Sp.B Rumah Bersalin Melania meningkatkan pelayanannya menjadi Rumah Sakit Ibu dan Anak Melania yang memberikan pelayanan kesehatan bagi ibu dan anak. Rumah Sakit Melania terus berusaha memperluas pelayanannya. Oleh karena proporsi antara jumlah penduduk pria dibanding dengan wanita di kota bogor hampir mendekati 1:1 maka rumah sakit Melania tergerak untuk dapat memberikan pelayanan tidak hanya bagi ibu dan anak namun juga bagi pasien pria dewasa, maka sejak tanggal 11 September 2014 RSIA Melania meningkatkan statusnya menjadi RSU Melania. Dengan pengalaman lebih dari 50 tahun RS Melania mulai memperluas pelayanannya kepada seluruh kalangan masyarakat tua maupun muda, baik pria maupun wanita. RS Melania telah lulus akreditasi tingkat PARIPURNA SNARS edisi I Tahun 2018.",
+       "image":"https://static.konsula.com/images/practice/0001002000/0001001097/rumah-sakit-melania.800x600.jpg",
+      "phoneNumber" : "02518321196",
+      "geo":{
+        "lat":-6.61117562030443,
+        "lng":106.80071182510139
+      },
+      "email" : "rsmelania@gmail.com"
+    },
+    {
+      "id":17,
+      "name" : "RSIA Pasutri Bogor",
+      "address" : "Jl. Merak No.3, RT.03/RW.06, Tanah Sareal, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16161",
+      "city":"Bogor",
+      "description" : "Berawal dari Klinik Pasutri yang dididirikan pada tahun 2005, yang terus peningkatan pelayanan baik kualitas & kuantitas dan tetap eksis memberikan  pelayanan yang terbaik bagi masyarakat Bogor dan sekitarnya. Dengan bertambahnya pasien dari tahun  ketahun maka pada tahun 2013, Klinik Pasutri meningkat menjadi RSB Pasutri. Pada tahun 2016 berubah menjadi RSIA Pasutri , dan pada tahun 2024 direncanakan akan meningkat menjadi RSU Pasutri. RSIA Pasutri Bogor yang berada di kawasan Kota Bogor, tepatnya di jalan Merak No. 03 Tanah Sereal Bogor Jawa Barat mengkhususkan diri dalam bidang pelayanan spesialistik kebidanan & penyakit kandungan. Ditunjang dengan unit pelayanan spesialistik lainnya.",
+       "image":"https://www.garnesia.com/images/vendor/5840_68fdbdd8b01f2817bd491eab0281a509.jpg",
+      "phoneNumber" : "02518349707",
+      "geo":{
+        "lat":-6.570401486279108,
+        "lng":106.79896736928018
+      },
+      "email" : "rsiapasturi@gmail.com"
+    },
+    {
+      "id":18,
+      "name" : "Rumah Sakit Muhammadiyah",
+      "address" : "Jl. K.H. Ahmad Dahlan No.53, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264",
+      "city":"Bandung",
+      "description" : "Rumah Sakit Muhammadiyah Bandung merupakan rumah sakit islam Muhammadiyah yang berada langsung dibawah Pimpinan Wilayah Muhammadiyah Jawa Barat. Rumah sakit dibangun pada 18 November 1968 dan diresmikan oleh Gubernur Jawa Barat Mayjen Mashudi dan Walikota Bandung Sukarna Wijaya. Rumah Sakit Muhammadiyah Bandung berdiri dengan dasar keinginan masyarakat muslim dan juga para tokoh Jawa Barat pada masanya. Membawa kontribusi yang besar dalam bidang pelayanan kesehatan, rumah sakit ini pun menjadi salah satu rumah sakit Bandung kepercayaan bagi para warganya hingga saat ini khususnya untuk masyarakat segmen menengah ke bawah.",
+       "image":"https://sangpencerah.id/wp-content/uploads/2022/11/images-2-28.jpeg",
+      "phoneNumber" : "0227301062",
+      "geo":{
+        "lat":-6.933440740116744,
+        "lng":107.62335301531272
+      },
+      "email" : "rsmbandung@gmail.com"
+    },
+    {
+      "id":19,
+      "name" : "Rumah Sakit Umum Daerah Kota Bandung",
+      "address" : "Jl. Rumah Sakit No.22, Pakemitan, Kec. Cinambo, Kota Bandung, Jawa Barat 45474",
+      "city":"Bandung",
+      "description" : "RSUD Kota Bandung adalah rumah sakit yang dikelola Pemerintah Kota Bandung. Rumah sakit ini beralamat di Jl. Rumah Sakit No.22, Pakemitan, Kec. Cinambo, Kota Bandung. Melaksanakan upaya kesehatan secara berdayaguna dan berhasilguna dengan mengutamakan upaya penyembuhan dan pemulihan yang dilaksanakan secara serasi, terpadu dengan upaya peningkatan dan pencegahan serta melaksanakan upaya rujukan. ",
+       "image":"https://rsudbandungkiwari.or.id/wp-content/uploads/2022/01/rsudbk-555x460.jpg",
+      "phoneNumber" : "0227811794",
+      "geo":{
+        "lat":6.915509033310921,
+        "lng":107.69891836928272
+      },
+      "email" : "rsudbandung@gmail.com"
+    },
+    {
+      "id":20,
+      "name" : "Rumah Sakit Advent",
+      "address" : "Jl. Cihampelas No.161, Cipaganti, Kecamatan Coblong, Kota Bandung, Jawa Barat 40131",
+      "city":"Bandung",
+      "description" : "Rumah Sakit Advent Bandung adalah sebuah rumah sakit yang terletak di Jalan Cihampelas No. 161 Bandung, Provinsi Jawa Barat, Indonesia. Rumah Sakit Advent Bandung adalah bagian dari jaringan pelayanan kesehatan Adventist Health System Asia (AHS/A), yang mengelola lembaga kesehatan Advent di kawasan Asia Pasifik Selatan dengan kantor pusat di Cavite, Filipina. Di seluruh dunia, AHS melayani 68 negara dengan 5.000 karyawan yang terbagi di 165 rumah sakit dan 345 klinik kesehatan. ",
+       "image":"https://rsadventbandung.com/uploads/FolderBaru/RSAB%20buat%20web.jpg",
+      "phoneNumber" : "02220343869",
+      "geo":{
+        "lat":-6.892012687163287,
+        "lng":107.60408435895394
+      },
+      "email" : "cs@rsadventbandung.com"
+    }
+  ]
+  
