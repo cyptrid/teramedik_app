@@ -89,11 +89,17 @@ class DetailView extends GetView<DetailController> {
                           ),
                           child: IconButton(
                             onPressed: () async {
+                              String strLat = state['lat'];
+                              String strlong = state['lng'];
+
+                              double cnvStrLat = double.parse(strLat);
+                              double cnvStrLong = double.parse(strlong);
+
                               final availableMaps =
                                   await MapLauncher.installedMaps;
                               await MapLauncher.showMarker(
                                 mapType: MapType.google,
-                                coords: Coords(state['lat'], state['lng']),
+                                coords: Coords(cnvStrLat, cnvStrLong),
                                 title: state['name'],
                               );
                             },
